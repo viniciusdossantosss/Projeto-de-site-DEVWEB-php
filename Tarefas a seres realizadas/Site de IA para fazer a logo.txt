@@ -1,0 +1,6 @@
+Site de IA para fazer a logo
+
+Dar 5 opções de logo pro cliente.
+
+Stable difusion
+MidJourney
